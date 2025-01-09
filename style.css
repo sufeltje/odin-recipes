@@ -7,3 +7,27 @@
     font-size: 60px;
     font-weight: 600;
 }
+
+h2{
+    font-size: 40px;
+    font-weight: 400;
+    color: indigo;
+}
+
+p{
+    color: red;
+}
+
+ol{
+    color: green;
+}
+
+ul{
+    color: white;
+    background-color: wheat;
+}
+
+.back{
+    background-color: burlywood;
+    font-size: 30px;
+}

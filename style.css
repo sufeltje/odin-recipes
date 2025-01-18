@@ -18,6 +18,7 @@ h2{
     color: indigo;
     padding: 10px;
     background-color: burlywood;
+    margin: 2px 10px;
 }
 
 p{
@@ -26,13 +27,13 @@ p{
 
 ol{
     color: green;
-    padding: auto;
+    margin: 10px auto;
 }
 
 ul{
     color: white;
     background-color: wheat;
-    padding: auto;
+    margin: auto;
 }
 
 .back{
